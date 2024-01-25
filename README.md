@@ -1,1 +1,2 @@
-# Projcts
+# Projects
+#github application projects
